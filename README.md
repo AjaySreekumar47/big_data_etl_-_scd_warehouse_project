@@ -84,17 +84,6 @@ ORDER BY total_revenue DESC
    * Dimension + Fact table creation
    * SCD handling
    * Analytics queries
-4. Zip and push the entire folder to GitHub
-
----
-
-## 📈 Future Enhancements
-
-* Automate ETL with **Airflow**
-* Track data lineage and schema changes
-* Integrate with **Delta Lake** or **Hive Metastore**
-* Visualize KPIs using **Streamlit** or **Power BI**
-
 ---
 
 ## 🧑‍💻 Author
@@ -102,5 +91,4 @@ ORDER BY total_revenue DESC
 Ajay Sreekumar
 *AI Research Engineer | Data Scientist*
 [LinkedIn](https://www.linkedin.com/in/ajay-sreekumar) • [GitHub](https://github.com/AjaySreekumar)
-Let me know if you want a version tailored for Jupyter Book, blog publication, or a portfolio site!
 ```
